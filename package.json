@@ -1,0 +1,23 @@
+{
+  "name": "core.io-data-manager",
+  "version": "0.0.0",
+  "description": "core.io data manager module",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/goliatone/core.io-data-manager.git"
+  },
+  "keywords": [
+    "core.io",
+    "data-manager"
+  ],
+  "author": "goliatone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/goliatone/core.io-data-manager/issues"
+  },
+  "homepage": "https://github.com/goliatone/core.io-data-manager#readme"
+}
