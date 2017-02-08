@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/goliatone/core.io-data-manager/issues"
   },
-  "homepage": "https://github.com/goliatone/core.io-data-manager#readme"
+  "homepage": "https://github.com/goliatone/core.io-data-manager#readme",
+  "dependencies": {
+    "csv-parse": "^1.2.0",
+    "csv-stringify": "^1.0.4"
+  }
 }
