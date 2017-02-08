@@ -6,10 +6,10 @@ const extend = require('gextend');
 const EventEmitter = require('events');
 
 const CSVParser = require('./lib/parsers/csv');
-const CSVExporter = require('./lib/exporter/csv');
+const CSVExporter = require('./lib/exporters/csv');
 
 const JSONParser = require('./lib/parsers/json');
-const JSONExporter = require('./lib/exporter/json');
+const JSONExporter = require('./lib/exporters/json');
 
 var DEFAULTS = {
     autoinitialize: true,
