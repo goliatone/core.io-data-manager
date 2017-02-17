@@ -4,8 +4,7 @@
   "description": "core.io data manager module",
   "main": "index.js",
   "scripts": {
-    "test": "npm test",
-    "publish patch": "npm version patch && npm publish && git push --tags && git push origin master"
+    "test": "npm test"
   },
   "repository": {
     "type": "git",
