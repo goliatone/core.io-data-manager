@@ -23,7 +23,7 @@
   "dependencies": {
     "csv-parse": "^1.2.0",
     "csv-stringify": "^1.0.4",
-    "fs-exists-promised": "^0.2.0",
+    "fs-extra": "^7.0.1",
     "gextend": "^0.3.0"
   }
 }
