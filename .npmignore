@@ -1,0 +1,6 @@
+README.md
+_README.md
+*.csv
+*.json
+taskfile
+.jshintrc
