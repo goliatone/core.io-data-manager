@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/goliatone/core.io-data-manager#readme",
   "dependencies": {
-    "csv-parse": "^1.2.0",
+    "csv-parse": "^4.4.6",
     "csv-stringify": "^1.0.4",
     "fs-extra": "^7.0.1",
     "gextend": "^0.3.0"
